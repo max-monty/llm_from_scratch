@@ -1,0 +1,7 @@
+- review
+    - chain rule
+    - vanishing gradients and how skip connections help
+    - broadcasting in pytorch
+    - batched multihead attention and matrix multiplication that makes this work
+
+- all the exercises
